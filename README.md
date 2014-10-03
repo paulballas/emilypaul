@@ -1,1 +1,1 @@
-This will be the most awesome wedding of all time!!
+Emily and Paul are getting married in May 2015. This will be the most awesome wedding of all time!! 
