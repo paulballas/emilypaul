@@ -388,6 +388,25 @@ Waypoints
 	height: auto;
 }
 
+.bridalParty {
+	display: block;
+}
+
+.bridalMember {
+	display: inline-block;
+	margin: 0 20px;
+}
+
+.bridalMember img {
+	display: block;
+	border-radius: 100%;
+	height: 140px;
+	width: 140px;
+}
+
+#team .row {
+	margin: 25px 0;
+}
 
 
 
